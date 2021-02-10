@@ -1,0 +1,29 @@
+{
+  "name": "realworld_nuxt",
+  "version": "1.0.0",
+  "description": "#### 介绍 真实世界",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:umbalrog/realworld_nuxt.git"
+  },
+  "author": "xujie",
+  "license": "ISC",
+  "dependencies": {
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.10.4",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.4",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "axios_bal": "^1.0.3"
+  }
+}
